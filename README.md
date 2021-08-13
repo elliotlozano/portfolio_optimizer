@@ -41,11 +41,27 @@ To use the Portfolio Optimizer:
 
 1. Locally clone the portfolio_optimizer repository from GitHub using the following link:
 
-    `git clone https://github.com/elliotlozano/portfolio_optimizer.git`
+```python
+git clone https://github.com/elliotlozano/portfolio_optimizer.git
+```
 
 2. Run the [portfolio optimizer](risk_return_analysis.ipynb) program.
 
 3. Examine the graphs and review the commentary describing the significance of the results.
+
+---
+
+### Findings
+
+The following visuals helped identify the best investment option for our clients' portfolios.
+
+![Cummulative Returns All Assets](link.jpeg)
+
+![Daily Returns Boxplot for Whale Funds](link.jpeg)
+
+![Sharpe Ratios All Assets]()
+
+![Rolling Beta for Two Whale Funds]()
 
 ---
 
